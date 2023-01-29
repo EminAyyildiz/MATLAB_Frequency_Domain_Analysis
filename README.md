@@ -1,6 +1,7 @@
 % MATLAB_Frequency_Domain_Analysis
 
 
+
 % Bu prjede temel amaç üretilen bir sinüs dalgasının spektrumlarını analiz etmektir. Daha önceki projelerde oluşturduğumuz fonksiyonlar ile ürettiğimiz sinyali module ve demodule işlemlerin sokuyoruz. Amaç module edilmiş sinyal ile demodule edilmiş sinyalin  spektrumlarını karşılaştırmaktır. Daha sonra ki görev ise bu sinyale bir ses sinyali ekleyerek ses sinyalinin etkisinin spektrumunu incelemektir. Bu nedenle de AWGN kanalı ile belirlenen şartlar altında bir ses sinyali oluşturduk. Sonuç olarak bu projede öğrendiklerimize bakacak olursak, DSB-SC modülasyonu, mesaj sinyalinin bir taşıyıcı frekansın hem üst hem de alt yan bantlarına eklenmesini içerir, bu da mesaj sinyalinin bant genişliğinin iki katı olan bir bant genişliğine sahip modüle edilmiş bir dalga ile sonuçlanır. Taşıyıcı frekansı, modülasyon şemasının önemli bir parçasıdır ve sinyalin demodüle edilmesi için gereklidir, şemanın gerektirdiği bant genişliği ise mesaj sinyalinin bant genişliğinin iki katına eşittir.
 
 
